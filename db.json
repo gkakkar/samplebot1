@@ -1,0 +1,15 @@
+{
+
+    "slots": {},
+    "sessionAttributes": {},
+    "message": "To check on upcoming appointment availability, please log into your account on the UKVCAS website and enter your postcode to view the closest service points to you. The log in link is at the top right of the UKVCAS website homepage.",
+    "sentimentResponse": {
+        "sentimentLabel": "NEUTRAL",
+        "sentimentScore": "{Positive: 0.0040459186,Negative: 0.017814491,Neutral: 0.97813386,Mixed: 5.68941E-6}"
+    },
+    "messageFormat": "PlainText",
+    "dialogState": "Fulfilled",
+    "slotToElicit": null,
+    "responseCard": null,
+    "sessionId": "2020-10-11T17:32:58.011Z-RgoBfYed"
+}
